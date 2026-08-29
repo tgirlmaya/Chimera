@@ -1,0 +1,29 @@
+---
+publish: true
+aliases:
+  - Herbalism Kit
+created: 2026-08-28T20:41:11.899Z
+modified: 2026-08-29T18:07:58.209Z
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/item/gear/tool
+  - ttrpg-cli/item/rarity/none
+cssclasses:
+  - json5e-item
+---
+
+# Herbalism Kit
+
+_Tool_
+
+- **Cost**: 5 gp
+
+- **Weight**: 3.0 lbs.
+
+- **Ability.** Intelligence
+
+- **Utilize.** Identify a plant (DC 10)
+
+- **Craft.** [Antitoxin](Compendium/Mechanics/CLI/items/antitoxin-xphb.md), [Candle](Compendium/Mechanics/CLI/items/candle-xphb.md), [Healer's Kit](Compendium/Mechanics/CLI/items/healers-kit-xphb.md), [Potion of Healing](Compendium/Mechanics/CLI/items/potion-of-healing-xdmg.md)
+
+_Source: Player's Handbook (2024) p. 221. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

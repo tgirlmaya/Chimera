@@ -1,0 +1,27 @@
+---
+publish: true
+aliases:
+  - Manual of Iron Golems
+created: 2026-08-28T20:41:12.106Z
+modified: 2026-08-29T18:07:55.905Z
+tags:
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/rarity/very-rare
+cssclasses:
+  - json5e-item
+---
+
+# Manual of Iron Golems
+
+_Wondrous item, very rare_\
+![](Compendium/Mechanics/CLI/items/img/manual-of-iron-golems.webp#right)
+
+- **Weight**: 5.0 lbs.
+
+This tome contains information and incantations necessary to make a [iron golem](Compendium/Mechanics/CLI/bestiary/construct/iron-golem-xmm.md). To decipher and use the manual, you must be a spellcaster with at least two 5th-level spell slots. A creature that can't use a _manual of golems_ and attempts to read it takes `6d6` psychic damage.
+
+To create an iron golem, you must spend 120 days, working without interruption with the manual at hand and resting no more than 8 hours per day. You must also pay 100,000 gp to purchase supplies.
+
+Once you finish creating the golem, the book is consumed in eldritch flames. The golem becomes animate when the ashes of the manual are sprinkled on it. It is under your control, and it understands and obeys your spoken commands.
+
+_Source: Dungeon Master's Guide (2024) p. 277. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

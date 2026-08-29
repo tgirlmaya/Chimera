@@ -1,0 +1,36 @@
+---
+publish: true
+aliases:
+  - Befuddlement
+created: 2026-08-28T20:41:14.389Z
+modified: 2026-08-29T18:07:43.417Z
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/class/warlock
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/level/8th-level
+  - ttrpg-cli/spell/school/enchantment
+cssclasses:
+  - json5e-spell
+---
+
+# Befuddlement
+
+_8th-level, Enchantment_
+
+- **Casting time:** 1 Action
+- **Range:** 150 feet
+- **Components:** V, S, M (a key ring with no keys)
+- **Duration:** Instantaneous
+
+You blast the mind of a creature that you can see within range. The target makes an Intelligence saving throw.
+
+On a failed save, the target takes `10d12` Psychic damage and can't cast spells or take the [Magic](Compendium/Mechanics/CLI/Rules/actions.md#Magic) action. At the end of every 30 days, the target repeats the save, ending the effect on a success. The effect can also be ended by the [Greater Restoration](Compendium/Mechanics/CLI/spells/greater-restoration-xphb.md), [Heal](Compendium/Mechanics/CLI/spells/heal-xphb.md), or [Wish](Compendium/Mechanics/CLI/spells/wish-xphb.md) spell.
+
+On a successful save, the target takes half as much damage only.
+
+**Classes**: [Bard](Compendium/Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](Compendium/Mechanics/CLI/lists/list-spells-classes-druid.md); [Warlock](Compendium/Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](Compendium/Mechanics/CLI/lists/list-spells-classes-wizard.md)
+
+_Source: Player's Handbook (2024) p. 245. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

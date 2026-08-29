@@ -1,0 +1,21 @@
+---
+publish: true
+aliases:
+  - Belt of Hill Giant Strength
+created: 2026-08-28T20:41:11.255Z
+modified: 2026-08-29T18:08:05.105Z
+tags:
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/rare
+cssclasses:
+  - json5e-item
+---
+
+# Belt of Hill Giant Strength
+
+_Wondrous item, rare (requires attunement)_
+
+While wearing this belt, your Strength score changes to 21. The item has no effect on you if your Strength without the belt is equal to or greater than the belt's score.
+
+_Source: Dungeon Master's Guide (2024) p. 236. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
