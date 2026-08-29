@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: tgirlmaya.github.io/chimera
+  baseUrl: tgirlmaya.github.io/Chimera
   ignorePatterns:
     - 0.dm screen
     - 0.scratch notes
