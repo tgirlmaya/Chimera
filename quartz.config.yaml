@@ -9,7 +9,8 @@ configuration:
   locale: en-US
   baseUrl: tgirlmaya.github.io/chimera
   ignorePatterns:
-    - private
+    - 0.dm screen
+    - 0.scratch notes
     - templates
     - .obsidian
   theme:
@@ -41,6 +42,15 @@ configuration:
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#b3aa0288"
 plugins:
+  - source:
+      name: quartz-themes
+      repo: "https://github.com/saberzero1/quartz-themes.git"
+      subdir: plugin
+    enabled: true
+    options:
+      theme: its-theme.ttrpg-dnd
+      mode: both
+      calloutStyle: glass
   - source: "@quartz-community/created-modified-date"
     enabled: true
     options:
