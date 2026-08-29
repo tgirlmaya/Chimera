@@ -1,0 +1,24 @@
+---
+publish: true
+aliases:
+  - Ball Bearings
+created: 2026-08-28T20:41:11.220Z
+modified: 2026-08-29T18:08:05.425Z
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/item/gear/
+  - ttrpg-cli/item/rarity/none
+cssclasses:
+  - json5e-item
+---
+
+# Ball Bearings
+
+_Adventuring gear_
+
+- **Cost**: 1 gp
+- **Weight**: 2.0 lbs.
+
+As a [Utilize](Compendium/Mechanics/CLI/Rules/actions.md#Utilize) action, you can spill Ball Bearings from their pouch. They spread to cover a level, 10-foot-square area within 10 feet of yourself. A creature that enters this area for the first time on a turn must succeed on a DC 10 Dexterity saving throw or have the [Prone](Compendium/Mechanics/CLI/Rules/conditions.md#Prone) condition. It takes 10 minutes to recover the Ball Bearings.
+
+_Source: Player's Handbook (2024) p. 224. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

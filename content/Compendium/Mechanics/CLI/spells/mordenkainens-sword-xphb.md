@@ -1,0 +1,35 @@
+---
+publish: true
+aliases:
+  - Mordenkainen's Sword
+created: 2026-08-28T20:41:14.799Z
+modified: 2026-08-29T18:07:39.656Z
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/level/7th-level
+  - ttrpg-cli/spell/school/evocation
+  - ttrpg-cli/spell/subclass/evoker
+cssclasses:
+  - json5e-spell
+---
+
+# Mordenkainen's Sword
+
+_7th-level, Evocation_
+
+- **Casting time:** 1 Action
+- **Range:** 90 feet
+- **Components:** V, S, M (a miniature sword worth 250+ GP)
+- **Duration:** Concentration, up to 1 minute
+
+You create a spectral sword that hovers within range. It lasts for the duration.
+
+When the sword appears, you make a melee spell attack against a target within 5 feet of the sword. On a hit, the target takes Force damage equal to `4d12` plus your spellcasting ability modifier.
+
+On your later turns, you can take a [Bonus Action](Compendium/Mechanics/CLI/Rules/variant-rules/bonus-action-xphb.md) to move the sword up to 30 feet to a spot you can see and repeat the attack against the same target or a different one.
+
+**Classes**: [Bard](Compendium/Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard (Evoker)](Compendium/Mechanics/CLI/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Compendium/Mechanics/CLI/lists/list-spells-classes-wizard.md)
+
+_Source: Player's Handbook (2024) p. 302. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Arcane Sword") and the Free Rules (2024)_

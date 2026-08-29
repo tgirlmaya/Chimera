@@ -1,0 +1,36 @@
+---
+obsidianUIMode: preview
+cssclasses:
+  - json5e-note
+tags:
+  - ttrpg-cli/compendium/src/5e/xmm
+aliases:
+  - Monsters by Habitat; Grassland Monsters
+publish: true
+---
+
+# Monsters by Habitat; Grassland Monsters
+
+_Source: Monster Manual (2024) p. 375_
+
+**Grassland Monsters**
+
+| CR | Monsters |
+|----|----------|
+| 0 | [Cat](Compendium/Mechanics/CLI/bestiary/beast/cat-xmm.md), [Deer](Compendium/Mechanics/CLI/bestiary/beast/deer-xmm.md), [Eagle](Compendium/Mechanics/CLI/bestiary/beast/eagle-xmm.md), [Goat](Compendium/Mechanics/CLI/bestiary/beast/goat-xmm.md), [Hawk](Compendium/Mechanics/CLI/bestiary/beast/hawk-xmm.md), [Hyena](Compendium/Mechanics/CLI/bestiary/beast/hyena-xmm.md), [Jackal](Compendium/Mechanics/CLI/bestiary/beast/jackal-xmm.md), [Vulture](Compendium/Mechanics/CLI/bestiary/beast/vulture-xmm.md), [Weasel](Compendium/Mechanics/CLI/bestiary/beast/weasel-xmm.md) |
+| 1/8 | [Blood Hawk](Compendium/Mechanics/CLI/bestiary/beast/blood-hawk-xmm.md), [Flying Snake](Compendium/Mechanics/CLI/bestiary/monstrosity/flying-snake-xmm.md), [Giant Weasel](Compendium/Mechanics/CLI/bestiary/beast/giant-weasel-xmm.md), [Goblin Minion](Compendium/Mechanics/CLI/bestiary/fey/goblin-minion-xmm.md), [Pony](Compendium/Mechanics/CLI/bestiary/beast/pony-xmm.md), [Stirge](Compendium/Mechanics/CLI/bestiary/monstrosity/stirge-xmm.md), [Venomous Snake](Compendium/Mechanics/CLI/bestiary/beast/venomous-snake-xmm.md) |
+| 1/4 | [Axe Beak](Compendium/Mechanics/CLI/bestiary/monstrosity/axe-beak-xmm.md), [Boar](Compendium/Mechanics/CLI/bestiary/beast/boar-xmm.md), [Elk](Compendium/Mechanics/CLI/bestiary/beast/elk-xmm.md), [Giant Venomous Snake](Compendium/Mechanics/CLI/bestiary/beast/giant-venomous-snake-xmm.md), [Giant Wolf Spider](Compendium/Mechanics/CLI/bestiary/beast/giant-wolf-spider-xmm.md), [Goblin Warrior](Compendium/Mechanics/CLI/bestiary/fey/goblin-warrior-xmm.md), [Panther](Compendium/Mechanics/CLI/bestiary/beast/panther-xmm.md), [Pteranodon](Compendium/Mechanics/CLI/bestiary/beast/pteranodon-xmm.md), [Riding Horse](Compendium/Mechanics/CLI/bestiary/beast/riding-horse-xmm.md), [Wolf](Compendium/Mechanics/CLI/bestiary/beast/wolf-xmm.md) |
+| 1/2 | [Cockatrice](Compendium/Mechanics/CLI/bestiary/monstrosity/cockatrice-xmm.md), [Giant Goat](Compendium/Mechanics/CLI/bestiary/beast/giant-goat-xmm.md), [Giant Wasp](Compendium/Mechanics/CLI/bestiary/beast/giant-wasp-xmm.md), [Gnoll Warrior](Compendium/Mechanics/CLI/bestiary/fiend/gnoll-warrior-xmm.md), [Hobgoblin Warrior](Compendium/Mechanics/CLI/bestiary/fey/hobgoblin-warrior-xmm.md), [Jackalwere](Compendium/Mechanics/CLI/bestiary/fiend/jackalwere-xmm.md), [Swarm of Insects](Compendium/Mechanics/CLI/bestiary/beast/swarm-of-insects-xmm.md), [Worg](Compendium/Mechanics/CLI/bestiary/fey/worg-xmm.md) |
+| 1 | [Bugbear Warrior](Compendium/Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm.md), [Giant Eagle](Compendium/Mechanics/CLI/bestiary/celestial/giant-eagle-xmm.md), [Giant Hyena](Compendium/Mechanics/CLI/bestiary/beast/giant-hyena-xmm.md), [Giant Vulture](Compendium/Mechanics/CLI/bestiary/monstrosity/giant-vulture-xmm.md), [Goblin Boss](Compendium/Mechanics/CLI/bestiary/fey/goblin-boss-xmm.md), [Hippogriff](Compendium/Mechanics/CLI/bestiary/monstrosity/hippogriff-xmm.md), [Lion](Compendium/Mechanics/CLI/bestiary/beast/lion-xmm.md), [Ogrillon Ogre](Compendium/Mechanics/CLI/bestiary/giant/ogrillon-ogre-xmm.md), [Scarecrow](Compendium/Mechanics/CLI/bestiary/construct/scarecrow-xmm.md), [Thri-kreen Marauder](Compendium/Mechanics/CLI/bestiary/monstrosity/thri-kreen-marauder-xmm.md), [Tiger](Compendium/Mechanics/CLI/bestiary/beast/tiger-xmm.md) |
+| 2 | [Allosaurus](Compendium/Mechanics/CLI/bestiary/beast/allosaurus-xmm.md), [Ankheg](Compendium/Mechanics/CLI/bestiary/monstrosity/ankheg-xmm.md), [Bulette Pup](Compendium/Mechanics/CLI/bestiary/monstrosity/bulette-pup-xmm.md), [Centaur Trooper](Compendium/Mechanics/CLI/bestiary/fey/centaur-trooper-xmm.md), [Giant Boar](Compendium/Mechanics/CLI/bestiary/beast/giant-boar-xmm.md), [Giant Elk](Compendium/Mechanics/CLI/bestiary/celestial/giant-elk-xmm.md), [Gnoll Pack Lord](Compendium/Mechanics/CLI/bestiary/fiend/gnoll-pack-lord-xmm.md), [Griffon](Compendium/Mechanics/CLI/bestiary/monstrosity/griffon-xmm.md), [Ogre](Compendium/Mechanics/CLI/bestiary/giant/ogre-xmm.md), [Pegasus](Compendium/Mechanics/CLI/bestiary/celestial/pegasus-xmm.md), [Rhinoceros](Compendium/Mechanics/CLI/bestiary/beast/rhinoceros-xmm.md), [Swarm of Stirges](Compendium/Mechanics/CLI/bestiary/monstrosity/swarm-of-stirges-xmm.md), [Swarm of Venomous Snakes](Compendium/Mechanics/CLI/bestiary/beast/swarm-of-venomous-snakes-xmm.md) |
+| 3 | [Ankylosaurus](Compendium/Mechanics/CLI/bestiary/beast/ankylosaurus-xmm.md), [Bugbear Stalker](Compendium/Mechanics/CLI/bestiary/fey/bugbear-stalker-xmm.md), [Goblin Hexer](Compendium/Mechanics/CLI/bestiary/fey/goblin-hexer-xmm.md), [Gold Dragon Wyrmling](Compendium/Mechanics/CLI/bestiary/dragon/gold-dragon-wyrmling-xmm.md), [Hobgoblin Captain](Compendium/Mechanics/CLI/bestiary/fey/hobgoblin-captain-xmm.md), [Manticore](Compendium/Mechanics/CLI/bestiary/monstrosity/manticore-xmm.md), [Phase Spider](Compendium/Mechanics/CLI/bestiary/monstrosity/phase-spider-xmm.md) |
+| 4 | [Couatl](Compendium/Mechanics/CLI/bestiary/celestial/couatl-xmm.md), [Elephant](Compendium/Mechanics/CLI/bestiary/beast/elephant-xmm.md), [Gnoll Fang of Yeenoghu](Compendium/Mechanics/CLI/bestiary/fiend/gnoll-fang-of-yeenoghu-xmm.md), [Hippopotamus](Compendium/Mechanics/CLI/bestiary/beast/hippopotamus-xmm.md), [Wereboar](Compendium/Mechanics/CLI/bestiary/monstrosity/wereboar-xmm.md), [Weretiger](Compendium/Mechanics/CLI/bestiary/monstrosity/weretiger-xmm.md) |
+| 5 | [Bulette](Compendium/Mechanics/CLI/bestiary/monstrosity/bulette-xmm.md), [Giant Axe Beak](Compendium/Mechanics/CLI/bestiary/monstrosity/giant-axe-beak-xmm.md), [Gorgon](Compendium/Mechanics/CLI/bestiary/construct/gorgon-xmm.md), [Triceratops](Compendium/Mechanics/CLI/bestiary/beast/triceratops-xmm.md) |
+| 6 | [Chimera](Compendium/Mechanics/CLI/bestiary/monstrosity/chimera-xmm.md), [Cyclops Sentry](Compendium/Mechanics/CLI/bestiary/giant/cyclops-sentry-xmm.md), [Hobgoblin Warlord](Compendium/Mechanics/CLI/bestiary/fey/hobgoblin-warlord-xmm.md) |
+| 7 | [Centaur Warden](Compendium/Mechanics/CLI/bestiary/fey/centaur-warden-xmm.md) |
+| 8 | [Cockatrice Regent](Compendium/Mechanics/CLI/bestiary/monstrosity/cockatrice-regent-xmm.md), [Gnoll Demoniac](Compendium/Mechanics/CLI/bestiary/fiend/gnoll-demoniac-xmm.md), [Thri-kreen Psion](Compendium/Mechanics/CLI/bestiary/monstrosity/thri-kreen-psion-xmm.md), [Tyrannosaurus Rex](Compendium/Mechanics/CLI/bestiary/beast/tyrannosaurus-rex-xmm.md) |
+| 9 | [Brazen Gorgon](Compendium/Mechanics/CLI/bestiary/construct/brazen-gorgon-xmm.md) |
+| 10 | [Cyclops Oracle](Compendium/Mechanics/CLI/bestiary/giant/cyclops-oracle-xmm.md), [Dire Worg](Compendium/Mechanics/CLI/bestiary/fey/dire-worg-xmm.md), [Young Gold Dragon](Compendium/Mechanics/CLI/bestiary/dragon/young-gold-dragon-xmm.md) |
+| 17 | [Adult Gold Dragon](Compendium/Mechanics/CLI/bestiary/dragon/adult-gold-dragon-xmm.md) |
+| 24 | [Ancient Gold Dragon](Compendium/Mechanics/CLI/bestiary/dragon/ancient-gold-dragon-xmm.md) |
+^grassland-monsters

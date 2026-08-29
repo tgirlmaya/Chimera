@@ -1,0 +1,32 @@
+---
+publish: true
+aliases:
+  - Compelled Duel
+created: 2026-08-28T20:41:14.445Z
+modified: 2026-08-29T18:07:42.943Z
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/paladin
+  - ttrpg-cli/spell/feat/fey-touched
+  - ttrpg-cli/spell/level/1st-level
+  - ttrpg-cli/spell/school/enchantment
+cssclasses:
+  - json5e-spell
+---
+
+# Compelled Duel
+
+_1st-level, Enchantment_
+
+- **Casting time:** 1 Bonus Action
+- **Range:** 30 feet
+- **Components:** V
+- **Duration:** Concentration, up to 1 minute
+
+You try to compel a creature into a duel. One creature that you can see within range makes a Wisdom saving throw. On a failed save, the target has [Disadvantage](Compendium/Mechanics/CLI/Rules/variant-rules/disadvantage-xphb.md) on attack rolls against creatures other than you, and it can't willingly move to a space that is more than 30 feet away from you.
+
+The spell ends if you make an attack roll against a creature other than the target, if you cast a spell on an enemy other than the target, if an ally of yours damages the target, or if you end your turn more than 30 feet away from the target.
+
+**Classes**: [Paladin](Compendium/Mechanics/CLI/lists/list-spells-classes-paladin.md)
+
+_Source: Player's Handbook (2024) p. 252_

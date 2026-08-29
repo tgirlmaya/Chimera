@@ -1,0 +1,36 @@
+---
+publish: true
+aliases:
+  - Scarab of Protection
+created: 2026-08-28T20:41:12.541Z
+modified: 2026-08-29T18:07:51.533Z
+tags:
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/legendary
+cssclasses:
+  - json5e-item
+---
+
+# Scarab of Protection
+
+_Wondrous item, legendary (requires attunement)_\
+![](Compendium/Mechanics/CLI/items/img/scarab-of-protection.webp#right)
+
+- **Weight**: 1.0 lbs.
+
+This beetle-shaped medallion provides three benefits while it is on your person.
+
+## Defense
+
+You gain a +1 bonus to [Armor Class](Compendium/Mechanics/CLI/Rules/variant-rules/armor-class-xphb.md).
+
+## Preservation
+
+The scarab has 12 charges. If you fail a saving throw against a Necromancy spell or a harmful effect originating from an Undead, you can take a [Reaction](Compendium/Mechanics/CLI/Rules/variant-rules/reaction-xphb.md) to expend 1 charge and turn the failed save into a successful one. The scarab crumbles into powder and is destroyed when its last charge is expended.
+
+## Spell Resistance
+
+You have [Advantage](Compendium/Mechanics/CLI/Rules/variant-rules/advantage-xphb.md) on saving throws against spells.
+
+_Source: Dungeon Master's Guide (2024) p. 302. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

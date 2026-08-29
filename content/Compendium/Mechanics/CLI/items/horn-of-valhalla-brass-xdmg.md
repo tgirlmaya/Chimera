@@ -1,0 +1,26 @@
+---
+publish: true
+aliases:
+  - Horn of Valhalla, Brass
+created: 2026-08-28T20:41:11.921Z
+modified: 2026-08-29T18:07:58.052Z
+tags:
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/gear/instrument
+  - ttrpg-cli/item/rarity/rare
+cssclasses:
+  - json5e-item
+---
+
+# Horn of Valhalla, Brass
+
+_Wondrous item, instrument ([horn](Compendium/Mechanics/CLI/items/horn-xphb.md)), rare_\
+![](Compendium/Mechanics/CLI/items/img/horn-of-valhalla.webp#right)
+
+You can take a [Magic](Compendium/Mechanics/CLI/Rules/actions.md#Magic) action to blow this horn. In response, warrior spirits from the plane of Ysgard appear in unoccupied spaces within 60 feet of you. Each spirit uses the [Berserker](Compendium/Mechanics/CLI/bestiary/humanoid/berserker-xmm.md) stat block and returns to Ysgard after 1 hour or when it drops to 0 [Hit Points](Compendium/Mechanics/CLI/Rules/variant-rules/hit-points-xphb.md). The spirits look like living, breathing warriors, and they have [Immunity](Compendium/Mechanics/CLI/Rules/variant-rules/immunity-xphb.md) to the [Charmed](Compendium/Mechanics/CLI/Rules/conditions.md#Charmed) and [Frightened](Compendium/Mechanics/CLI/Rules/conditions.md#Frightened) conditions. Once you use the horn, it can't be used again until 7 days have passed.
+
+A brass horn summons 3 [Berserkers](Compendium/Mechanics/CLI/bestiary/humanoid/berserker-xmm.md). To use the brass horn, you must have [Proficiency](Compendium/Mechanics/CLI/Rules/variant-rules/proficiency-xphb.md) with all Simple weapons.
+
+If you blow the horn without meeting its requirement, the summoned [Berserkers](Compendium/Mechanics/CLI/bestiary/humanoid/berserker-xmm.md) attack you. If you meet the requirement, they are [Friendly](Compendium/Mechanics/CLI/Rules/variant-rules/friendly-attitude-xphb.md) to you and your allies and follow your commands.
+
+_Source: Dungeon Master's Guide (2024) p. 270. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
